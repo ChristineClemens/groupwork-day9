@@ -1,0 +1,11 @@
+Single page app:
+FunoGram
+
+[                   ]
+[Selected Picture   ]
+[                   ]
+
+[Thumb1] [Thumb2] [Thumb3] [Thumb4]
+    \clickable
+        Clicking will change the main picture 
+        to the thumbnail picture.
