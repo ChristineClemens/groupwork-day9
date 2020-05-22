@@ -9,3 +9,10 @@ FunoGram
     \clickable
         Clicking will change the main picture 
         to the thumbnail picture.
+
+#Variables
+-list of thumbnails
+
+#Functions
+-clicking on each thumbnail will call "setPicture()",
+setPicture: switch 'Selected Picture' to thumbnail source.
